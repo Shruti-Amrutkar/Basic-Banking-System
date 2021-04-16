@@ -10,6 +10,6 @@ Database contains two Tables- transaction Table & users Table.
 1)Users table have basic fields such as name, email & balance.
 
 2)Transaction table records all transfers happened along with their time.
-3)
+
 Flow of the Website: Home Page > Money Remittance > Select and View one User > Send Money > Select reciever > View all Users > View Transaction History.
  
